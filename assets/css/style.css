@@ -352,6 +352,7 @@ section .container {
   font-family: "Poppins", sans-serif;
 }
 
+/*
 .section-title h2::after {
   content: "";
   width: 120px;
@@ -360,6 +361,7 @@ section .container {
   background: #dee2e6;
   margin: 4px 10px;
 }
+*/
 
 .section-title p {
   margin: 0;
@@ -838,6 +840,7 @@ section .container {
   font-size: 20px;
   color: #fff;
   font-weight: 600;
+  white-space: pre-line;
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {
